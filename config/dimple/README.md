@@ -1,8 +1,8 @@
-# duo40
+# Dimple
 
-Duo40 is 12u 40% layout keyboard made by LAZYDESIGNRERS. 
+Dimple is 12.5u 40% layout keyboard made by LAZYDESIGNRERS. 
 
-## Building duo40 ZMK firmware
+## Building Dimple ZMK firmware
 ```
-west build -p -b duo40
+west build -p -b dimple
 ```
