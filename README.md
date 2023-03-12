@@ -11,6 +11,14 @@ Keymap config for Dimple Blue Edition
 5. Press the reset button on the back of Dimple Blue Edition PCB twice to put it into bootloader mode. There will be a device popped out. Drag the zmk firmware you generated into the root folder.
 6. The device will be refreshed and showed as 'dimple'. All done!
 
+## Known Issues:
+1. Blue LED doesn't work.
+2. Battery Level showed in the system is not accurate.
+3. Occasionally repeating key input (One noticed)
+4. Delayed connection when startup (Might have some issue with the bluetooth hardware on PC)
+
+It would be much appreciated that you can report issue after using Blue version Dimple.
+
 ## Credit:
 
 ZMK is awesome!
