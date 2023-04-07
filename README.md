@@ -12,7 +12,7 @@ Keymap config for Dimple Blue Edition
 6. The device will be refreshed and showed as 'dimple'. All done!
 
 ## Known Issues:
-1. Blue LED doesn't work.
+1. ~~Blue LED doesn't work.~~ Currently the blue led pin hasn't been defined in bootloader. So blue pin won't blink when usb is connected.
 2. Battery Level showed in the system is not accurate.
 3. Occasionally repeating key input (One noticed)
 4. Delayed connection when startup (Might have some issue with the bluetooth hardware on PC)
