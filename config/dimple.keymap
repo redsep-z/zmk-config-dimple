@@ -46,10 +46,10 @@
 
         control_layer {
             bindings = <
-&none           &kp F1   &kp F2          &kp F3         &kp F4   &kp F5     &kp F6     &kp F7    &kp F8        &kp F9  &kp F10  &kp F11
-&none         &kp HOME  &kp END       &kp PG_UP  &kp PAGE_DOWN  &kp F12     &trans     &trans    &trans        &trans   &trans    &none
-&none  &kp PRINTSCREEN  &kp INS  &kp SCROLLLOCK    &kp C_PAUSE   &trans     &trans  &kp COMMA     &none  &kp UP_ARROW    &none
-&to 1                    &trans           &to 0  &kp BACKSPACE           &kp SPACE   &kp LEFT  &kp DOWN     &kp RIGHT
+ &none           &kp F1   &kp F2          &kp F3         &kp F4   &kp F5     &kp F6     &kp F7    &kp F8        &kp F9  &kp F10  &kp F11
+ &none         &kp HOME  &kp END       &kp PG_UP  &kp PAGE_DOWN  &kp F12     &trans     &trans    &trans        &trans   &trans    &none
+ &none  &kp PRINTSCREEN  &kp INS  &kp SCROLLLOCK    &kp C_PAUSE   &trans     &trans  &kp COMMA     &none  &kp UP_ARROW    &none
+&trans                    &trans           &to 0  &kp BACKSPACE           &kp SPACE   &kp LEFT  &kp DOWN     &kp RIGHT
             >;
         };
     };
